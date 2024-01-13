@@ -1,4 +1,4 @@
-# Quasar App (brouton-game)
+# Fun game
 
 A Quasar Project
 
